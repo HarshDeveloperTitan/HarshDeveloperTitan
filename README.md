@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Harsh 👋
 
-<!--
-**HarshDeveloperTitan/HarshDeveloperTitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate passionate about building web applications and learning how real-world software is tested, deployed, and scaled.  
+Currently focused on **MERN stack development** and **software testing fundamentals**.
 
-Here are some ideas to get you started:
+> I focus on mastering fundamentals and applying them through consistent, real-world practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const harsh = {
+  role: "Aspiring Software Developer / QA Engineer",
+  education: "Computer Science Graduate",
+  
+  coreSkills: {
+    languages: ["Java", "Python", "JavaScript"],
+    frontend: ["HTML5", "CSS3", "React"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+  }, strengths: [
+    "Clean and readable code",
+    "Strong understanding of fundamentals",
+    "Attention to detail",
+    "Quick learner"
+  ],
+
+  currentFocus: [
+    "Building production-style MERN projects",
+    "Strengthening backend & API design",
+    "Applying testing principles to real projects"
+  ],
+  };
