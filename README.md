@@ -5,6 +5,7 @@ Currently focused on **MERN stack development** and **software testing fundament
 
 > I focus on mastering fundamentals and applying them through consistent, real-world practice.
 
+```js
 const harsh = {
   role: "Aspiring Software Developer / QA Engineer",
   education: "Computer Science Graduate",
@@ -26,3 +27,4 @@ const harsh = {
     "Applying testing principles to real projects"
   ],
   };
+```  
