@@ -1,6 +1,7 @@
 # Hey, I'm Harsh 👋
 
 I'm a Computer Science graduate passionate about building web applications and learning how real-world software is tested, deployed, and scaled.  
+
 Currently focused on **MERN stack development** and **software testing fundamentals**.
 
 > I focus on mastering fundamentals and applying them through consistent, real-world practice.
