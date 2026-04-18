@@ -1,4 +1,4 @@
-# Hey, I'm Harsh 👋
+# Hey, I'm Harsh 
 
 I'm a Computer Science graduate passionate about building web applications and learning how real-world software is tested, deployed, and scaled.  
 
@@ -12,9 +12,9 @@ const harsh = {
   education: "Computer Science Graduate",
   
   coreSkills: {
-    languages: ["Java", "Python", "JavaScript"],
-    frontend: ["HTML5", "CSS3", "React"],
-    backend: ["Node.js", "Express.js", "MongoDB"],
+    languages: ["Java", "Python", "JavaScript", "Typescript"],
+    frontend: ["HTML5", "CSS3", "React" , "WordPress"],
+    backend: ["Node.js", "Express.js", "MongoDB" , "Firebase"],
   }, strengths: [
     "Clean and readable code",
     "Strong understanding of fundamentals",
